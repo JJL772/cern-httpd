@@ -1,1 +1,3 @@
 *.o
+Daemon/linux
+Library/linux
