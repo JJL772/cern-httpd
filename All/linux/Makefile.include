@@ -5,7 +5,7 @@
 WWW_MACH = linux
 
 CFLAGS = -g -Wall -DPOSIXWAIT
-LFLAGS =
+LFLAGS = -lcrypt -lc
 CC = cc
 
 # Directory for installed binary:
